@@ -1,0 +1,14 @@
+created: 20200110003009076
+modified: 20200110144055755
+tags: 
+title: People of Sharn
+type: text/vnd.tiddlywiki
+
+!! Upper Wards
+<<list-links "[tag[NPC]tag[upper wards]]">>
+
+!!Middle Wards
+<<list-links "[tag[NPC]tag[middle wards]]">>
+
+!!Lower Wards
+<<list-links "[tag[NPC]tag[lower wards]]">>

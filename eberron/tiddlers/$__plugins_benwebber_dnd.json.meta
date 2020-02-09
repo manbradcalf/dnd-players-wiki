@@ -1,0 +1,12 @@
+author: Ben Webber
+core-version: >=5.0.0
+created: 20200109225334552
+dependents: 
+description: Dungeons & Dragons campaign tools
+list: README License Changelog Settings
+modified: 20200109225334552
+plugin-type: plugin
+source: https://github.com/benwebber/tiddlywiki-dnd
+title: $:/plugins/benwebber/dnd
+type: application/json
+version: 1.1.0
